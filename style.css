@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(image/white.jpg);
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    margin-top: 40px;
+}
+
+.top-banner{
+    background-image:  url("") ;
+    background-repeat: no-repeat;
+  
+}
+
+.top-banner h1{
+    line-height: 1.5%;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+
+    color:rgb(100, 23, 23);
+}
+.half-width img{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+   
+    
+}
+ .anchor-button{
+    text-decoration: none;
+    background: linear-gradient(rgb(72, 100, 222),rgba(3, 2, 6, 0.402));
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 70px;
+    color: white;
+    margin-left: 10px;
+ }
+ .experience-area{
+
+
+ }
+ .experience-area h3{
+    color: orange;
+ }
+ .experience-area div{
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+ }
+ #full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg,  orange,tomato);
+    border-image-slice: 1;
+ }
+ #baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, rgb(153, 153, 217),rgb(5, 5, 108));
+    border-image-slice: 1;
+
+ }
+ footer p{
+    text-align: center;
+ }
+
+ 
+ 
+ 
+  
+ 
