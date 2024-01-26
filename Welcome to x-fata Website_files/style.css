@@ -1,8 +1,7 @@
 body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
-    background-image: url(mamu/backgroung\ image.png);
- 
+    background-image: url(image/white.jpg);
 }
 
 section{
@@ -11,7 +10,6 @@ section{
     margin-top: 40px;
      
 }
- 
 .top-banner p{
  padding-bottom: 25px;
   
@@ -33,12 +31,8 @@ section{
     margin-left: 5%;
     padding-left: 3%;
 }
-.half-width h1{
-   line-height: 35px;
-}
 h1{
     font-size: 50px;
-   
 }
 h1 span{
 
@@ -144,12 +138,6 @@ h1 span{
  
 
   
-}
-.Result-are h1{
-   padding-top: 50px;
-   font-size: 45px;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
- 
 }
   
   
